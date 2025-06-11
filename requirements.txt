@@ -4,4 +4,4 @@ plotly ~= 5.24.1
 numpy ~= 1.26.4
 openpyxl ~=  3.0.10
 dash ~= 3.0.4
-
+ipywidgets ~= 8.0.4
