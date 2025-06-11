@@ -14,6 +14,6 @@ Verifica que el archivo final_cost_report.csv esté correctamente generado y gua
 
 Ejecuta el segundo notebook 
 
-Descarga y abre el segundo notebook (Final.ipynb).
+Descarga y abre el segundo notebook (Entrega_Final.ipynb).
 Asegúrate de tener el final_cost_report.csv disponible en la misma carpeta o la ruta especificada.
 Al correr el segundo notebook, podrás visualizar el resumen (summary) y los resultados de la hipótesis de manera clara y directa, sin necesidad de pasar por todo el preprocesamiento nuevamente.
