@@ -1,6 +1,6 @@
 # TC2004B.642_Equipo3
 
-Asegurate de tener tu base con el nombre BASE.xlxs.
+Asegurate de tener tu base con el nombre BASE.xlsx.
 
 Ejecuta el primer notebook 
 
